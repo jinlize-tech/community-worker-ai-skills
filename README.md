@@ -47,3 +47,28 @@
 ## 贡献
 
 欢迎提交脱敏、合成的社区工作示例和文档改进。请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 和 [SECURITY.md](SECURITY.md)，不要提交真实居民资料、凭据或未授权内容。
+<!-- BATCH2_START -->
+## 第二批社区工作者 AI 工具
+
+在第一批15款免费 Skill 基础上，本仓库新增15款免费 Skill。当前累计30款。
+
+| 产品 | 分类 | 标准 Skill | 通用提示词 |
+|---|---|---|---|
+| 邻里纠纷事实梳理表 | 居民服务 / 邻里沟通与调解 | [进入](skills/community-neighbor-facts-026/README.md) | [通用提示词](prompts/community-neighbor-facts-026.md) |
+| 矛盾沟通开场与倾听提问 | 居民服务 / 邻里沟通与调解 | [进入](skills/community-dialogue-listening-027/README.md) | [通用提示词](prompts/community-dialogue-listening-027.md) |
+| 调解过程记录与协议要点 | 居民服务 / 邻里沟通与调解 | [进入](skills/community-mediation-record-028/README.md) | [通用提示词](prompts/community-mediation-record-028.md) |
+| 防诈骗宣传内容改写 | 宣传沟通 / 政策解读与信息核对 | [进入](skills/community-antifraud-content-033/README.md) | [通用提示词](prompts/community-antifraud-content-033.md) |
+| 社区政策文件转居民易读版 | 宣传沟通 / 政策解读与信息核对 | [进入](skills/community-policy-reader-034/README.md) | [通用提示词](prompts/community-policy-reader-034.md) |
+| 社区宣传材料事实核对清单 | 宣传沟通 / 政策解读与信息核对 | [进入](skills/community-publicity-factcheck-035/README.md) | [通用提示词](prompts/community-publicity-factcheck-035.md) |
+| 居民议事会议程与材料 | 社区治理 / 居民议事与意见征集 | [进入](skills/community-resident-meeting-036/README.md) | [通用提示词](prompts/community-resident-meeting-036.md) |
+| 居民意见问卷整理与主题归纳 | 社区治理 / 居民议事与意见征集 | [进入](skills/community-resident-survey-037/README.md) | [通用提示词](prompts/community-resident-survey-037.md) |
+| 居民提案分类与回应草稿 | 社区治理 / 居民议事与意见征集 | [进入](skills/community-proposal-response-038/README.md) | [通用提示词](prompts/community-proposal-response-038.md) |
+| 社区安全巡查记录整理 | 社区安全 / 安全巡查与应急协作 | [进入](skills/community-safety-inspection-041/README.md) | [通用提示词](prompts/community-safety-inspection-041.md) |
+| 公共设施问题报修转办单 | 社区安全 / 安全巡查与应急协作 | [进入](skills/community-facility-repair-042/README.md) | [通用提示词](prompts/community-facility-repair-042.md) |
+| 应急物资清单与检查表 | 社区安全 / 安全巡查与应急协作 | [进入](skills/community-emergency-supplies-045/README.md) | [通用提示词](prompts/community-emergency-supplies-045.md) |
+| 新入职社区工作者上岗清单 | 能力提升 / 社区工作者培训 | [进入](skills/community-worker-onboarding-046/README.md) | [通用提示词](prompts/community-worker-onboarding-046.md) |
+| 社区工作案例复盘 | 能力提升 / 社区工作者培训 | [进入](skills/community-case-review-047/README.md) | [通用提示词](prompts/community-case-review-047.md) |
+| 群众工作情景模拟练习 | 能力提升 / 社区工作者培训 | [进入](skills/community-public-service-training-049/README.md) | [通用提示词](prompts/community-public-service-training-049.md) |
+
+第二批详细入口见 [第二批产品索引](docs/第二批产品索引.md)，使用边界见 [第二批使用说明](docs/第二批使用说明.md)。
+<!-- BATCH2_END -->
