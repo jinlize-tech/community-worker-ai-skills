@@ -1,0 +1,23 @@
+# Local secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+secrets/
+credentials/
+
+# Development and runtime output
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.tmp/
+logs/
+node_modules/
+
+# Test and delivery artifacts
+*.zip
+test-results/
+outputs/
+*.log
