@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-025",
+  "product_name": "社区治理数据分析专家",
+  "product_name_en": "Community Governance Data Analysis Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "数据分析与绩效评估",
+  "market_l2": "社区治理数据分析",
+  "core_features": [
+    "数据字典",
+    "指标设计",
+    "趋势与分组分析",
+    "数据可视化建议",
+    "治理行动解读"
+  ],
+  "target_users": "社区负责人、治理项目研究人员、数据分析岗位人员",
+  "scenarios": [
+    "社区治理月度分析",
+    "居民诉求主题分析",
+    "服务项目数据复盘"
+  ],
+  "price_cny": 39,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

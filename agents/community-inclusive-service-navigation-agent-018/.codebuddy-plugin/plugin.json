@@ -1,0 +1,66 @@
+{
+  "name": "community-inclusive-service-navigation-agent-018",
+  "version": "1.0.0",
+  "description": "围绕居民公共服务、社会救助、就业和无障碍需求，提供信息核验、材料准备与转介路径。",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "后台待确认"
+  },
+  "agents": [
+    "./agents/community-inclusive-service-navigation-agent-018.md"
+  ],
+  "expertType": "agent",
+  "agentName": "community-inclusive-service-navigation-agent-018",
+  "displayName": {
+    "zh": "社区普惠服务导航助手",
+    "en": "Community Inclusive Service Navigation Assistant"
+  },
+  "profession": {
+    "zh": "普惠服务与办事导航顾问",
+    "en": "普惠服务与办事导航 Advisor"
+  },
+  "displayDescription": {
+    "zh": "围绕居民公共服务、社会救助、就业和无障碍需求，提供信息核验、材料准备与转介路径。",
+    "en": "围绕居民公共服务、社会救助、就业和无障碍需求，提供信息核验、材料准备与转介路径。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "12-IndustryConsultant",
+  "defaultInitPrompt": {
+    "zh": "居民办事咨询",
+    "en": "Start a 普惠服务与办事导航 work session"
+  },
+  "plugin": "community-inclusive-service-navigation-agent-018",
+  "tags": [
+    {
+      "zh": "普惠服务",
+      "en": "普惠服务"
+    },
+    {
+      "zh": "办事导航",
+      "en": "办事导航"
+    },
+    {
+      "zh": "民生保障",
+      "en": "民生保障"
+    },
+    {
+      "zh": "服务转介",
+      "en": "服务转介"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "居民办事咨询",
+      "en": "居民办事咨询"
+    },
+    {
+      "zh": "重点群体服务转介",
+      "en": "重点群体服务转介"
+    },
+    {
+      "zh": "多项民生政策路径比较",
+      "en": "多项民生政策路径比较"
+    }
+  ],
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,30 @@
+{
+  "product_code": "JLZ-COM-AG-011",
+  "product_name": "社区公众号运营专家",
+  "product_name_en": "Community WeChat Operations Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "运营增长",
+  "market_l2": "公众号运营",
+  "core_features": [
+    "公众号定位",
+    "目标读者分析",
+    "月度选题规划",
+    "内容日历",
+    "文章策划",
+    "标题优化",
+    "推文写作",
+    "发布排期",
+    "内容效果复盘"
+  ],
+  "target_users": "社区公众号运营人员、宣传人员、社区负责人",
+  "scenarios": [
+    "从零搭建社区公众号内容体系",
+    "制定月度内容计划",
+    "复盘近期文章数据"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

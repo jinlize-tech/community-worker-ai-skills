@@ -1,0 +1,18 @@
+{
+  "product_code": "JLZ-COM-AG-003",
+  "product_name": "网格走访与问题上报助手",
+  "product_name_en": "Grid Visit and Issue Reporting Assistant",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "基层工作管理",
+  "market_l2": "网格走访与事项跟踪",
+  "core_features": "通过多轮引导生成走访记录、问题上报单、交接清单和进展摘要",
+  "target_users": "网格员、社区网格负责人",
+  "scenarios": [
+    "走访、巡查、问题上报和后续跟进需要多次整理"
+  ],
+  "price_cny": null,
+  "billing_period": null,
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

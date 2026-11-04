@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-SK-091",
+  "product_name": "跨部门事项协同跟进助手",
+  "product_name_en": "Cross-Department Matter Coordination Follow-Up Assistant",
+  "product_type": "Skill",
+  "commercial": "付费",
+  "market_l1": "网格与基层治理",
+  "market_l2": "跨部门事项协同",
+  "core_features": [
+    "行动项拆解",
+    "责任与依赖矩阵",
+    "时限与状态跟踪",
+    "升级条件",
+    "会议纪要摘要"
+  ],
+  "target_users": "社区负责人、网格管理员、项目协调人员",
+  "scenarios": [
+    "多部门处理公共设施问题",
+    "跨组织活动筹备",
+    "长期事项周跟踪"
+  ],
+  "price_cny": 19.9,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

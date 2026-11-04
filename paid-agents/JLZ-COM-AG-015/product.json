@@ -1,0 +1,31 @@
+{
+  "product_code": "JLZ-COM-AG-015",
+  "product_name": "社区新媒体增长运营专家",
+  "product_name_en": "Community New Media Growth Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "运营增长",
+  "market_l2": "公众号增长分析",
+  "core_features": [
+    "公众号运营诊断",
+    "内容定位",
+    "选题策略",
+    "内容日历",
+    "标题优化",
+    "传播策略",
+    "阅读数据分析",
+    "互动分析",
+    "运营复盘",
+    "阶段增长建议"
+  ],
+  "target_users": "社区公众号负责人、宣传人员、社区管理者",
+  "scenarios": [
+    "公众号阅读波动诊断",
+    "栏目优化",
+    "月度数据复盘"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

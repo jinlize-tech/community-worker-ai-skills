@@ -1,0 +1,18 @@
+{
+  "product_code": "JLZ-COM-AG-005",
+  "product_name": "重点人群关怀协作专家",
+  "product_name_en": "Priority Group Care Collaboration Assistant",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "生活服务",
+  "market_l2": "老年关怀与数字助老",
+  "core_features": "帮助工作人员设计探访计划、脱敏记录、服务资源查询清单和跟进事项",
+  "target_users": "社区社工、养老服务人员、志愿服务负责人",
+  "scenarios": [
+    "老人、儿童及困难居民服务需求需要多方协作，记录和转介复杂"
+  ],
+  "price_cny": null,
+  "billing_period": null,
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

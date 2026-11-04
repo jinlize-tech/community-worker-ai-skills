@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-SK-087",
+  "product_name": "社区活动预算与成本测算助手",
+  "product_name_en": "Community Event Budget and Cost Estimation Assistant",
+  "product_type": "Skill",
+  "commercial": "付费",
+  "market_l1": "公益项目与资金管理",
+  "market_l2": "活动预算与成本测算",
+  "core_features": [
+    "成本科目拆分",
+    "数量单价核算",
+    "现金与非现金成本",
+    "情景测算",
+    "预算缺口与风险"
+  ],
+  "target_users": "社区活动负责人、项目财务联络人、社会组织运营人员",
+  "scenarios": [
+    "社区活动预算编制",
+    "项目活动成本复核",
+    "方案变更后的预算调整"
+  ],
+  "price_cny": 9.9,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

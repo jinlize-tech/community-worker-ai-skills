@@ -1,0 +1,29 @@
+{
+  "product_code": "JLZ-COM-AG-008",
+  "product_name": "居民议事与自治协作专家",
+  "product_name_en": "Resident Deliberation and Self-Governance Facilitator",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "社区治理",
+  "market_l2": "居民议事与意见征集",
+  "core_features": [
+    "居民议题识别",
+    "议事主题设计",
+    "问卷和意见整理",
+    "会议议程设计",
+    "居民提案归纳",
+    "会议纪要整理",
+    "议题反馈闭环"
+  ],
+  "target_users": "居民议事组织人员、社区工作者、居委会工作人员",
+  "scenarios": [
+    "楼栋公共空间改造议事",
+    "社区服务需求征集",
+    "居民提案集中回应",
+    "议事后形成跟进闭环"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

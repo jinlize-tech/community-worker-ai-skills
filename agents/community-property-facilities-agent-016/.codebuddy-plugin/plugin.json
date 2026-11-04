@@ -1,0 +1,66 @@
+{
+  "name": "community-property-facilities-agent-016",
+  "version": "1.0.0",
+  "description": "通过多轮协作完成公共设施问题识别、报修、维修验收、居民沟通和复盘。",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "后台待确认"
+  },
+  "agents": [
+    "./agents/community-property-facilities-agent-016.md"
+  ],
+  "expertType": "agent",
+  "agentName": "community-property-facilities-agent-016",
+  "displayName": {
+    "zh": "社区物业与公共设施协作助手",
+    "en": "Community Property and Public Facilities Collaboration Assistant"
+  },
+  "profession": {
+    "zh": "物业与公共设施协作顾问",
+    "en": "物业与公共设施协作 Advisor"
+  },
+  "displayDescription": {
+    "zh": "通过多轮协作完成公共设施问题识别、报修、维修验收、居民沟通和复盘。",
+    "en": "通过多轮协作完成公共设施问题识别、报修、维修验收、居民沟通和复盘。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "10-ProjectQuality",
+  "defaultInitPrompt": {
+    "zh": "电梯周边设施维修",
+    "en": "Start a 物业与公共设施协作 work session"
+  },
+  "plugin": "community-property-facilities-agent-016",
+  "tags": [
+    {
+      "zh": "物业协作",
+      "en": "物业协作"
+    },
+    {
+      "zh": "公共设施",
+      "en": "公共设施"
+    },
+    {
+      "zh": "维修验收",
+      "en": "维修验收"
+    },
+    {
+      "zh": "居民沟通",
+      "en": "居民沟通"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "电梯周边设施维修",
+      "en": "电梯周边设施维修"
+    },
+    {
+      "zh": "公共照明整改",
+      "en": "公共照明整改"
+    },
+    {
+      "zh": "儿童游乐设施安全检查",
+      "en": "儿童游乐设施安全检查"
+    }
+  ],
+  "license": "Apache-2.0"
+}

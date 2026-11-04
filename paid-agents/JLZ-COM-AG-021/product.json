@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-021",
+  "product_name": "社区环境与公共空间治理专家",
+  "product_name_en": "Community Environment and Public Space Governance Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "环境卫生与公共空间",
+  "market_l2": "环境与公共空间治理",
+  "core_features": [
+    "空间问题诊断",
+    "利益相关方分析",
+    "共治方案",
+    "巡查整改闭环",
+    "治理效果复盘"
+  ],
+  "target_users": "社区治理人员、物业环境负责人、网格员、居民议事协调人",
+  "scenarios": [
+    "消防通道长期占用",
+    "公共绿地维护争议",
+    "垃圾投放点治理"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

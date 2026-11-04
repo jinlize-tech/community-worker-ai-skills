@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-024",
+  "product_name": "社区预算与采购管理顾问专家",
+  "product_name_en": "Community Budget and Procurement Management Advisory Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "公益项目与资金管理",
+  "market_l2": "预算与采购管理",
+  "core_features": [
+    "预算规划",
+    "询价口径",
+    "比选分析",
+    "合同要点",
+    "成本与执行复盘"
+  ],
+  "target_users": "社区项目负责人、社会组织行政财务人员、采购经办人",
+  "scenarios": [
+    "项目采购方案",
+    "活动预算超支分析",
+    "供应商报价比较"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

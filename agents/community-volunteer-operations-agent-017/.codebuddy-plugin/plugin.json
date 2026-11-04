@@ -1,0 +1,66 @@
+{
+  "name": "community-volunteer-operations-agent-017",
+  "version": "1.0.0",
+  "description": "覆盖志愿者招募、岗位设计、培训、排班、时长记录、安全和复盘的多轮运营协作。",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "后台待确认"
+  },
+  "agents": [
+    "./agents/community-volunteer-operations-agent-017.md"
+  ],
+  "expertType": "agent",
+  "agentName": "community-volunteer-operations-agent-017",
+  "displayName": {
+    "zh": "志愿服务运营协作助手",
+    "en": "Volunteer Service Operations Collaboration Assistant"
+  },
+  "profession": {
+    "zh": "志愿服务运营顾问",
+    "en": "志愿服务运营 Advisor"
+  },
+  "displayDescription": {
+    "zh": "覆盖志愿者招募、岗位设计、培训、排班、时长记录、安全和复盘的多轮运营协作。",
+    "en": "覆盖志愿者招募、岗位设计、培训、排班、时长记录、安全和复盘的多轮运营协作。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "09-OperationsHR",
+  "defaultInitPrompt": {
+    "zh": "建立志愿服务制度",
+    "en": "Start a 志愿服务运营 work session"
+  },
+  "plugin": "community-volunteer-operations-agent-017",
+  "tags": [
+    {
+      "zh": "志愿服务",
+      "en": "志愿服务"
+    },
+    {
+      "zh": "运营协作",
+      "en": "运营协作"
+    },
+    {
+      "zh": "排班培训",
+      "en": "排班培训"
+    },
+    {
+      "zh": "志愿时长",
+      "en": "志愿时长"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "建立志愿服务制度",
+      "en": "建立志愿服务制度"
+    },
+    {
+      "zh": "大型活动志愿者调度",
+      "en": "大型活动志愿者调度"
+    },
+    {
+      "zh": "月末时长和服务复盘",
+      "en": "月末时长和服务复盘"
+    }
+  ],
+  "license": "Apache-2.0"
+}

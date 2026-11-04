@@ -1,0 +1,28 @@
+{
+  "product_code": "JLZ-COM-AG-006",
+  "product_name": "邻里沟通与调解陪练专家",
+  "product_name_en": "Neighbor Communication and Mediation Practice Coach",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "居民服务",
+  "market_l2": "邻里沟通与调解",
+  "core_features": [
+    "多种邻里矛盾情景模拟",
+    "居民角色扮演",
+    "沟通开场训练",
+    "倾听和复述训练",
+    "冲突降温表达训练",
+    "训练后结构化反馈"
+  ],
+  "target_users": "社区工作者、网格员、调解辅助人员",
+  "scenarios": [
+    "楼道堆物沟通",
+    "噪声投诉接待",
+    "公共空间使用分歧",
+    "情绪激动居民的首次沟通"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

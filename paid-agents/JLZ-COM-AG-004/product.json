@@ -1,0 +1,18 @@
+{
+  "product_code": "JLZ-COM-AG-004",
+  "product_name": "社区活动策划执行专家",
+  "product_name_en": "Community Event Planning and Execution Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "活动策划",
+  "market_l2": "志愿服务与现场执行",
+  "core_features": "多轮收集活动条件，生成活动全流程执行包，并按用户反馈调整",
+  "target_users": "社区工作者、社区社会组织、社工机构",
+  "scenarios": [
+    "活动从创意到执行涉及方案、人员、宣传、报名、现场和复盘"
+  ],
+  "price_cny": null,
+  "billing_period": null,
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

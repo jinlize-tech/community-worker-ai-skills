@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-022",
+  "product_name": "社会救助与民生服务协作专家",
+  "product_name_en": "Social Assistance and Livelihood Services Collaboration Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "居民服务与民生保障",
+  "market_l2": "社会救助与民生服务",
+  "core_features": [
+    "政策来源核验",
+    "需求与风险识别",
+    "材料预检",
+    "跨部门转介",
+    "服务跟进"
+  ],
+  "target_users": "社区民政工作人员、社会工作者、民生服务窗口人员",
+  "scenarios": [
+    "困难家庭综合服务",
+    "临时救助申请协作",
+    "多部门民生事项转介"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

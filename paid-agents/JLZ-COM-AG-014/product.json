@@ -1,0 +1,30 @@
+{
+  "product_code": "JLZ-COM-AG-014",
+  "product_name": "社区活动视觉设计专家",
+  "product_name_en": "Community Event Visual Design Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "视觉内容",
+  "market_l2": "活动视觉设计",
+  "core_features": [
+    "活动视觉定位",
+    "活动主视觉",
+    "公众号封面",
+    "活动海报",
+    "活动配图",
+    "长图策划",
+    "图文排版",
+    "视觉风格统一",
+    "多尺寸适配"
+  ],
+  "target_users": "社区活动组织者、宣传人员、视觉设计人员",
+  "scenarios": [
+    "社区活动视觉套件",
+    "公众号封面与海报统一",
+    "多平台活动宣传"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

@@ -1,0 +1,29 @@
+{
+  "product_code": "JLZ-COM-AG-012",
+  "product_name": "社区宣传文案总编专家",
+  "product_name_en": "Community Publicity Chief Editor",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "宣传沟通",
+  "market_l2": "宣传文案与内容审核",
+  "core_features": [
+    "宣传文案策划",
+    "政策宣传",
+    "新闻稿",
+    "活动推文",
+    "人物故事",
+    "文章润色",
+    "多渠道转换",
+    "事实与内容审核"
+  ],
+  "target_users": "社区宣传负责人、公众号编辑、材料撰写人员",
+  "scenarios": [
+    "同一活动需要公众号、新闻稿和群通知",
+    "政策宣传稿审核",
+    "人物稿和活动稿统稿"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

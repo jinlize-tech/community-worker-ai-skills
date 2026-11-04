@@ -1,0 +1,18 @@
+{
+  "product_code": "JLZ-COM-AG-001",
+  "product_name": "社区日常办公协作专家",
+  "product_name_en": "Community Office Collaboration Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "办公效率",
+  "market_l2": "文档处理",
+  "core_features": "通过多轮对话识别任务类型，收集必要信息，生成社区办公材料和跟进清单",
+  "target_users": "社区工作者、社区综合岗、社区负责人",
+  "scenarios": [
+    "日常材料、会议、通知、台账和总结分散，反复切换工具"
+  ],
+  "price_cny": null,
+  "billing_period": null,
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

@@ -1,0 +1,30 @@
+{
+  "product_code": "JLZ-COM-AG-010",
+  "product_name": "社区工作者能力提升陪练专家",
+  "product_name_en": "Community Worker Capability Development Coach",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "能力提升",
+  "market_l2": "社区工作者培训",
+  "core_features": [
+    "新员工岗位能力训练",
+    "群众沟通训练",
+    "居民接待训练",
+    "网格走访训练",
+    "工作材料编写训练",
+    "案例复盘",
+    "个性化训练计划",
+    "训练结果反馈"
+  ],
+  "target_users": "新入职和在职社区工作者、带教人员",
+  "scenarios": [
+    "新员工首月训练",
+    "窗口接待演练",
+    "网格走访话术训练",
+    "材料写作提升"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

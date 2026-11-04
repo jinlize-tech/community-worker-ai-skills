@@ -1,0 +1,18 @@
+{
+  "product_code": "JLZ-COM-AG-002",
+  "product_name": "居民诉求办理协作专家",
+  "product_name_en": "Resident Request Case Assistant",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "居民服务",
+  "market_l2": "诉求接待与回访",
+  "core_features": "多轮澄清诉求，整理事实、分类、待核实信息、转介方向、回访节点和回复草稿",
+  "target_users": "社区接待人员、网格员、社区服务负责人",
+  "scenarios": [
+    "居民诉求从接待到回访跨多个步骤，信息容易断档"
+  ],
+  "price_cny": null,
+  "billing_period": null,
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

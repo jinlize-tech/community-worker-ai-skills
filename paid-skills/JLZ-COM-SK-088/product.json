@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-SK-088",
+  "product_name": "社区采购询价比选助手",
+  "product_name_en": "Community Procurement Quotation Comparison Assistant",
+  "product_type": "Skill",
+  "commercial": "付费",
+  "market_l1": "公益项目与资金管理",
+  "market_l2": "采购询价比选",
+  "core_features": [
+    "报价口径统一",
+    "总拥有成本比较",
+    "资质与交付检查",
+    "异常低价提示",
+    "比选纪要草稿"
+  ],
+  "target_users": "社区采购经办人、项目管理人员、社会组织行政人员",
+  "scenarios": [
+    "活动物资三家报价比较",
+    "服务采购询价",
+    "采购前参数统一"
+  ],
+  "price_cny": 9.9,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

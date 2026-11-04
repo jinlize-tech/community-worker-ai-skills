@@ -1,0 +1,29 @@
+{
+  "product_code": "JLZ-COM-AG-009",
+  "product_name": "社区应急协作助手",
+  "product_name_en": "Community Emergency Coordination Assistant",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "社区安全",
+  "market_l2": "安全巡查与应急协作",
+  "core_features": [
+    "已确认预案资料整理",
+    "应急通知草稿",
+    "工作人员任务清单",
+    "信息汇总",
+    "物资清单整理",
+    "事后情况记录",
+    "复盘报告"
+  ],
+  "target_users": "社区应急工作人员、值班人员、网格员",
+  "scenarios": [
+    "台风前社区内部准备",
+    "应急值班交接",
+    "物资盘点",
+    "应急结束后复盘"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

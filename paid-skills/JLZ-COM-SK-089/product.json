@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-SK-089",
+  "product_name": "社区服务数据分析与看板摘要助手",
+  "product_name_en": "Community Service Data Analysis and Dashboard Summary Assistant",
+  "product_type": "Skill",
+  "commercial": "付费",
+  "market_l1": "数据分析与绩效评估",
+  "market_l2": "服务数据与看板摘要",
+  "core_features": [
+    "字段与口径检查",
+    "核心指标计算",
+    "趋势与分组比较",
+    "看板布局建议",
+    "数据质量警示"
+  ],
+  "target_users": "社区项目管理人员、运营分析人员、社区负责人",
+  "scenarios": [
+    "月度服务数据简报",
+    "项目看板设计",
+    "多活动数据汇总"
+  ],
+  "price_cny": 19.9,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

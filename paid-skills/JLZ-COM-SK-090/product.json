@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-SK-090",
+  "product_name": "居民需求与公共意见趋势分析助手",
+  "product_name_en": "Resident Needs and Public Opinion Trend Analyst",
+  "product_type": "Skill",
+  "commercial": "付费",
+  "market_l1": "数据分析与绩效评估",
+  "market_l2": "居民需求与公共意见",
+  "core_features": [
+    "意见去标识",
+    "主题编码",
+    "频次与强度区分",
+    "群体差异提示",
+    "沟通行动建议"
+  ],
+  "target_users": "社区治理研究人员、居民需求调研人员、社区负责人",
+  "scenarios": [
+    "居民意见问卷归纳",
+    "楼栋诉求趋势分析",
+    "公共议题风险分层"
+  ],
+  "price_cny": 19.9,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

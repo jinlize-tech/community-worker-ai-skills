@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-027",
+  "product_name": "社区服务质量评估专家",
+  "product_name_en": "Community Service Quality Evaluation Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "数据分析与绩效评估",
+  "market_l2": "社区服务质量评估",
+  "core_features": [
+    "质量标准框架",
+    "证据抽样",
+    "问卷与访谈提纲",
+    "评分与局限",
+    "改进复评"
+  ],
+  "target_users": "社区负责人、社会组织评估人员、项目管理者",
+  "scenarios": [
+    "年度服务评估",
+    "项目中期评审",
+    "服务窗口质量提升"
+  ],
+  "price_cny": 39,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

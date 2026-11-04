@@ -1,0 +1,66 @@
+{
+  "name": "community-cultural-sports-operations-agent-019",
+  "version": "1.0.0",
+  "description": "通过多轮协作完成文体活动策划、报名、流程、安全、签到、宣传和复盘。",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "后台待确认"
+  },
+  "agents": [
+    "./agents/community-cultural-sports-operations-agent-019.md"
+  ],
+  "expertType": "agent",
+  "agentName": "community-cultural-sports-operations-agent-019",
+  "displayName": {
+    "zh": "社区文体活动运营助手",
+    "en": "Community Cultural and Sports Event Operations Assistant"
+  },
+  "profession": {
+    "zh": "文体活动运营顾问",
+    "en": "文体活动运营 Advisor"
+  },
+  "displayDescription": {
+    "zh": "通过多轮协作完成文体活动策划、报名、流程、安全、签到、宣传和复盘。",
+    "en": "通过多轮协作完成文体活动策划、报名、流程、安全、签到、宣传和复盘。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "10-ProjectQuality",
+  "defaultInitPrompt": {
+    "zh": "社区运动会",
+    "en": "Start a 文体活动运营 work session"
+  },
+  "plugin": "community-cultural-sports-operations-agent-019",
+  "tags": [
+    {
+      "zh": "文体活动",
+      "en": "文体活动"
+    },
+    {
+      "zh": "活动运营",
+      "en": "活动运营"
+    },
+    {
+      "zh": "签到统计",
+      "en": "签到统计"
+    },
+    {
+      "zh": "社区活动",
+      "en": "社区活动"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "zh": "社区运动会",
+      "en": "社区运动会"
+    },
+    {
+      "zh": "文艺汇演",
+      "en": "文艺汇演"
+    },
+    {
+      "zh": "兴趣小组活动",
+      "en": "兴趣小组活动"
+    }
+  ],
+  "license": "Apache-2.0"
+}

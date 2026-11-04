@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-023",
+  "product_name": "社区公益项目策划与资金申报专家",
+  "product_name_en": "Community Charity Project Planning and Funding Application Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "公益项目与资金管理",
+  "market_l2": "公益项目策划与资金申报",
+  "core_features": [
+    "需求证据评估",
+    "变革逻辑设计",
+    "预算与指标",
+    "申报书撰写",
+    "结项与风险管理"
+  ],
+  "target_users": "社会组织项目人员、社区公益项目负责人、社区基金管理者",
+  "scenarios": [
+    "社区微公益项目设计",
+    "基金会项目申报",
+    "项目结项复盘"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

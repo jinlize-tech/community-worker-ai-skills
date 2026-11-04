@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-026",
+  "product_name": "社区公共意见与风险沟通专家",
+  "product_name_en": "Community Public Opinion and Risk Communication Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "邻里关系与矛盾调解",
+  "market_l2": "公共意见与风险沟通",
+  "core_features": [
+    "利益相关方地图",
+    "意见主题分析",
+    "风险情景",
+    "沟通口径",
+    "监测与升级"
+  ],
+  "target_users": "社区负责人、宣传人员、网格治理人员",
+  "scenarios": [
+    "停车调整引发争议",
+    "公共空间改造沟通",
+    "不实信息应对"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

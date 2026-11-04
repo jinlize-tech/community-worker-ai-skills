@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-SK-086",
+  "product_name": "社区公益项目申报书撰写助手",
+  "product_name_en": "Community Charity Project Proposal Writer",
+  "product_type": "Skill",
+  "commercial": "付费",
+  "market_l1": "公益项目与资金管理",
+  "market_l2": "公益项目申报",
+  "core_features": [
+    "申报要素完整性检查",
+    "问题—目标—活动—结果逻辑链",
+    "预算一致性检查",
+    "风险与可持续性分析",
+    "附件清单"
+  ],
+  "target_users": "社区公益项目负责人、社会组织项目人员、社区基金申报人员",
+  "scenarios": [
+    "街道微公益项目申报",
+    "社区基金项目书撰写",
+    "项目申报材料复核"
+  ],
+  "price_cny": 9.9,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

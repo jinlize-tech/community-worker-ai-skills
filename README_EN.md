@@ -1,15 +1,34 @@
-# Community Worker AI Skills
+<p align="center"><img src="assets/brand/official-logo.png" alt="Project Logo" width="320"></p>
 
-An Apache-2.0 collection of 15 free, text-based AI skills for community workers in mainland China.
+# Community Worker AI Product Center
 
-The skills support duty-log organization, community reporting, notices, resident request records, grid visits, issue reporting, handover checklists, event planning, volunteer scheduling, and privacy-safe care workflows. They do not replace approvals, law enforcement, medical diagnosis, eligibility decisions, or government systems.
+This repository contains a product center for community workers, grid staff, resident committees, social workers, volunteer teams, and community governance practitioners.
 
-Use `SKILL.md` in compatible clients, or copy the matching prompt from `prompts/` into another AI chat tool. Never submit real resident personal information to a public repository. See [TRADEMARKS.md](TRADEMARKS.md) for the separate brand policy.
+There are **100 products** in the catalog:
 
-<!-- BATCH2_EN_START -->
-## Second Batch: Community Worker AI Tools
+- 65 free Skills with public source code
+- 8 paid Skills with public overview only
+- 4 free Agents with public source code
+- 23 paid Agents with public overview only
 
-This repository now contains 30 free skills: the original 15 plus 15 new skills for neighbor communication, publicity and policy reading, resident deliberation, safety and emergency coordination, and community-worker training.
+Paid source code, system prompts, knowledge bases, upload ZIPs, and private test evidence are not published.
 
-See [the second-batch product index](docs/第二批产品索引.md) and [the second-batch usage notes](docs/第二批使用说明.md).
-<!-- BATCH2_EN_END -->
+## Catalog
+
+- [中文产品目录](CATALOG.md)
+- [English catalog](CATALOG_EN.md)
+- [Machine-readable product index](PRODUCT_INDEX.csv)
+- [Changelog](CHANGELOG.md)
+- [Paid product notice](PAID_PRODUCTS_NOTICE.md)
+
+## Status
+
+GitHub publication is not a WorkBuddy review, approval, or release result. Check WorkBuddy for platform status.
+
+## Privacy
+
+Do not submit real resident identifiers, addresses, phone numbers, health information, child data, or other unnecessary personal information.
+
+## License
+
+Free Skill and free Agent source code is licensed under Apache-2.0. See [LICENSE](LICENSE), [TRADEMARKS.md](TRADEMARKS.md), and [PAID_PRODUCTS_NOTICE.md](PAID_PRODUCTS_NOTICE.md).

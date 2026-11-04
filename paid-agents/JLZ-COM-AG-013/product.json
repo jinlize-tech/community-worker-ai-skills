@@ -1,0 +1,30 @@
+{
+  "product_code": "JLZ-COM-AG-013",
+  "product_name": "社区摄影与照片优化专家",
+  "product_name_en": "Community Photography and Photo Optimization Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "视觉内容",
+  "market_l2": "照片筛选与优化",
+  "core_features": [
+    "多张照片筛选",
+    "构图诊断",
+    "照片分类",
+    "曝光和色彩优化",
+    "人物和场景照片建议",
+    "图片裁切",
+    "清晰度改善",
+    "公众号尺寸适配",
+    "封面候选选择"
+  ],
+  "target_users": "社区宣传人员、活动摄影人员、公众号编辑",
+  "scenarios": [
+    "活动后筛选照片",
+    "批量统一照片风格",
+    "选择公众号封面"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "产品已收录；WorkBuddy平台状态以平台为准，本仓库不声明审核或上架",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}

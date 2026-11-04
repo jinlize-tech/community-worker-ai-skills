@@ -1,0 +1,26 @@
+{
+  "product_code": "JLZ-COM-AG-020",
+  "product_name": "社区物业与业主协同治理专家",
+  "product_name_en": "Community Property and Homeowners Collaborative Governance Expert",
+  "product_type": "Agent",
+  "commercial": "付费",
+  "market_l1": "公共资源与物业协作",
+  "market_l2": "物业与业主协同治理",
+  "core_features": [
+    "问题与利益相关方分析",
+    "议事方案设计",
+    "沟通材料",
+    "行动计划",
+    "执行反馈"
+  ],
+  "target_users": "社区负责人、业委会委员、物业管理人员、居民议事协调人员",
+  "scenarios": [
+    "物业费调整沟通（仅辅助流程）",
+    "公共维修项目协商",
+    "业主意见分歧化解"
+  ],
+  "price_cny": 29,
+  "billing_period": "monthly",
+  "status": "本地验证通过；WorkBuddy未上传、未审核、未发布",
+  "source_disclosure": "源码、提示词、知识库、正式ZIP和私有测试材料不公开"
+}
